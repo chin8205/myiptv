@@ -27,11 +27,11 @@ http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Malaysia",OKEY
-https://rtmokeymobile.secureswiftcontent.com/%20Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radio_Televisyen_Malaysia.svg/1200px-Radio_Televisyen_Malaysia.svg.png" group-title="Malaysia",RTM Saluran Berita 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://myklik.rtm.gov.my/image/tvTVOKEYlogo.jpg" group-title="Malaysia",RTM Saluran Berita 
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://myklik.rtm.gov.my/image/tvTVONENEWSlogo.png" group-title="Malaysia",RTM ONE News
+https://rtmonenewsmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports 
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
